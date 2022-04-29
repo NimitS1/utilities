@@ -1,4 +1,4 @@
-#Git scripts
+#Git Scripts
 
 ## post-commit
 
