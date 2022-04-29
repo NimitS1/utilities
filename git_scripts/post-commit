@@ -1,0 +1,4 @@
+#!/bin/sh
+branchName=$(git branch --show-current)
+echo "Pushing to branch: " $branchName
+git push origin $branchName
